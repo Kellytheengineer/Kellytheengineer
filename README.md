@@ -4,7 +4,7 @@
   # Kelly Shungu
   
   [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/kelly-ann-shungu/)
-  [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white)](Your_Twitter_URL)
+  [![Podacast](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white)](Your_Twitter_URL)
   [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](Your_Portfolio_URL)
 
   Junior Full Stack Developer | MSc Electronics Graduate
@@ -19,6 +19,9 @@ Greetings! I'm a passionate Junior Full Stack Developer with a Master's degree i
 - 💬 Ask me about: Full Stack Development, Electronics, and the intersection of Hardware and Software
 - 📫 How to reach me: [Your Email]
 - ⚡ Fun fact: [Interesting Fact About You]
+
+- ![image](https://github.com/user-attachments/assets/a50345a3-4775-48b9-94d7-1167cc4c8cd8)
+
 
 ## 🛠️ Technical Skills
 
