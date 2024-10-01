@@ -79,7 +79,7 @@ My favorite languages are SQL, Python, and JavaScript 👆 'Click to expand' to 
 
 ### Learn TypeScript Website 
 - **Description**: A website designed to teach the basics of TypeScript through interactive learning experiences.
-- **Tech Stack**: List of technologies used
+- **Tech Stack**: TypeScript, React, HTML5, CSS3
 - **GitHub**: (https://github.com/Kellytheengineer/typescriptbegineerguide)
 
 </details>
