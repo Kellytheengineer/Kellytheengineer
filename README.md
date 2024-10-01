@@ -3,7 +3,7 @@
   [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](Your_Portfolio_URL)
   [![Podcast](https://img.shields.io/badge/-Podcast-8A2BE2?style=for-the-badge&logo=Podcast&logoColor=white)](https://rss.com/podcasts/womeninstem/)
 
-  Junior Full Stack Developer | Electronic Engineer & Business Management MSc(Eng | Host & Founder Of "Women In STEM Podcast" 
+  Junior Full Stack Developer | Electronic Engineer & Business Management MSc(Eng) | Host & Founder Of "Women In STEM Podcast" 
 </div>
 
 ## 👨‍💻 About Me
