@@ -67,23 +67,20 @@ My favorite languages are SQL, Python, and JavaScript 👆 'Click to expand' to 
 <details>
 <summary>Click to expand</summary>
 
-### [Project Name 1]
-- **Description**: Brief description of the project
-- **Tech Stack**: List of technologies used
-- **GitHub**: [Link to GitHub repo]
-- **Live Demo**: [Link to live demo if available]
+### [Football Meet Up Website ]
+- **Description**:A football meetup site for parents of children aged 7-12 to create and join events.
+- **Tech Stack**: Next.js, React, GitHub CI/CD & Actions, Render, Prettier, and ESLint
+- **GitHub**: (https://github.com/Kellytheengineer/Football-meetup-website)
 
-### [Project Name 2]
+### [AI Interview Prep Helper]
 - **Description**: Brief description of the project
 - **Tech Stack**: List of technologies used
 - **GitHub**: [Link to GitHub repo]
-- **Live Demo**: [Link to live demo if available]
 
 ### [Project Name 3]
 - **Description**: Brief description of the project
 - **Tech Stack**: List of technologies used
 - **GitHub**: [Link to GitHub repo]
-- **Live Demo**: [Link to live demo if available]
 
 </details>
 
