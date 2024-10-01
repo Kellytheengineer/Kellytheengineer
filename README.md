@@ -1,6 +1,4 @@
-
-  # Hello, My name is Kelly 👋
-  
+# Hello, I'm Kelly 👋
   [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/kelly-ann-shungu/)
   [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](Your_Portfolio_URL)
   [![Podcast](https://img.shields.io/badge/-Podcast-8A2BE2?style=for-the-badge&logo=Podcast&logoColor=white)](https://rss.com/podcasts/womeninstem/)
