@@ -12,7 +12,6 @@ Greetings! I'm a passionate Junior Full Stack Developer with a Master's degree i
 
 - 🔭 I'm currently working on: Charity clothing events website  
 - 🌱 I'm currently learning: AWS Cloud Architecture
-- 💬 Ask me about: Full Stack Development, Electronics, and the intersection of Hardware and Software
 - ⚡ Fun fact: I am also a podcaster and have interviewed many tech professionals 
 
 ## 🛠️ Technical Skills
@@ -67,21 +66,21 @@ My favorite languages are SQL, Python, and JavaScript 👆 'Click to expand' to 
 <details>
 <summary>Click to expand</summary>
 
-### [Football Meet Up Website ]
+### Football Meet Up Website
 - **Description**: A football meetup site for parents of children aged 7-12 to create and join events.
 - **Tech Stack**: Next.js, React, GitHub CI/CD & Actions, Render, Prettier, and ESLint
 - **GitHub**: (https://github.com/Kellytheengineer/Football-meetup-website)
 - **Live Demo**: (https://final-project-final-destination.onrender.com/)
 
-### [AI Interview Prep Helper]
+### AI Interview Prep Helper
 - **Description**: AI-powered chatbot providing personalized job interview advice—simply copy and paste your skills and the job ad for tailored insights.
-- **Tech Stack**: React, Next.js, Mini chatGPt
+- **Tech Stack**: OpenAI API, GPT-4o mini
 - **GitHub**: (https://github.com/Kellytheengineer/AI-Interview-Prep-Helper)
 
-### [Project Name 3]
-- **Description**: Brief description of the project
+### Learn TypeScript Website 
+- **Description**: A website designed to teach the basics of TypeScript through interactive learning experiences.
 - **Tech Stack**: List of technologies used
-- **GitHub**: [Link to GitHub repo]
+- **GitHub**: (https://github.com/Kellytheengineer/typescriptbegineerguide)
 
 </details>
 
