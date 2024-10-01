@@ -87,23 +87,11 @@ My favorite languages are SQL, Python, and JavaScript 👆 'Click to expand' to 
 
 </details>
 
-## 🎓 Education
-
-- **MSc in Electronics** - University of Leeds (Year)
-  - Thesis: "[Your Thesis Title]"
-  - Key courses: [List relevant courses]
-
 
 ## 🌟 Achievements & Certifications
 
 - [Certification Name] - Issuing Organization (Year)
 - [Award or Recognition] - Issuing Body (Year)
-
-## 📚 Current Learning Goals
-
-- Mastering serverless architecture with AWS Lambda
-- Deepening knowledge in React performance optimization
-- Exploring machine learning applications in web development
 
 ## 🤝 Let's Connect!
 
