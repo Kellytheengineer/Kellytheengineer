@@ -17,11 +17,8 @@ Greetings! I'm a passionate Junior Full Stack Developer with a Master's degree i
 - 💬 Ask me about: Full Stack Development, Electronics, and the intersection of Hardware and Software
 - ⚡ Fun fact: I am also a podcaster and have interviewed many tech professionals 
 
-- ![image](https://github.com/user-attachments/assets/a50345a3-4775-48b9-94d7-1167cc4c8cd8)
-
-
 ## 🛠️ Technical Skills
-My favorite languages are SQL, Python, and JavaScript 👆 Click on 'Click to expand to see the full range of my technical knowledge 
+My favorite languages are SQL, Python, and JavaScript 👆 'Click to expand' to see the full range of my technical knowledge 
 
 <details>
 <summary>Click to expand</summary>
