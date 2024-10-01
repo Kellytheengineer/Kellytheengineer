@@ -4,10 +4,10 @@
   # Kelly Shungu
   
   [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/kelly-ann-shungu/)
-  [![Podacast](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white)](Your_Twitter_URL)
   [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](Your_Portfolio_URL)
+  [![Podcast](https://img.shields.io/badge/-Podcast-8A2BE2?style=for-the-badge&logo=Podcast&logoColor=white)](https://rss.com/podcasts/womeninstem/)
 
-  Junior Full Stack Developer | MSc Electronics Graduate
+  Junior Full Stack Developer | MSc Electronics Graduate  | Host & Founder Of "Women In STEM Podcast" 
 </div>
 
 ## 👨‍💻 About Me
@@ -34,7 +34,6 @@ Greetings! I'm a passionate Junior Full Stack Developer with a Master's degree i
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Swift](https://img.shields.io/badge/-Swift-FA7343?style=flat-square&logo=Swift&logoColor=white)
 
 ### Front-End
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
@@ -57,14 +56,11 @@ Greetings! I'm a passionate Junior Full Stack Developer with a Master's degree i
 ![Playwright](https://img.shields.io/badge/-Playwright-45ba4b?style=flat-square&logo=Playwright&logoColor=white)
 ![Vitest](https://img.shields.io/badge/-Vitest-6E9F18?style=flat-square&logo=Vitest&logoColor=white)
 ![Jest](https://img.shields.io/badge/-Jest-C21325?style=flat-square&logo=Jest&logoColor=white)
-![Pytest](https://img.shields.io/badge/-Pytest-0A9EDC?style=flat-square&logo=Pytest&logoColor=white)
-![Sentry](https://img.shields.io/badge/-Sentry-362D59?style=flat-square&logo=Sentry&logoColor=white)
 
 ### Design
 ![UX](https://img.shields.io/badge/-UX-FF61F6?style=flat-square&logo=Adobe-XD&logoColor=white)
 ![UI](https://img.shields.io/badge/-UI-0081CB?style=flat-square&logo=Material-UI&logoColor=white)
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white)
-![Accessibility](https://img.shields.io/badge/-Accessibility-0052CC?style=flat-square&logo=Accessibilityinsights&logoColor=white)
 
 ### DevOps
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=Git&logoColor=white)
@@ -98,37 +94,12 @@ Greetings! I'm a passionate Junior Full Stack Developer with a Master's degree i
 
 </details>
 
-## 📈 GitHub Stats
-
-<div align="center">
-  <img src="/placeholder.svg?height=180&width=400" alt="GitHub Stats" />
-  <img src="/placeholder.svg?height=180&width=400" alt="Top Languages" />
-</div>
-
 ## 🎓 Education
 
 - **MSc in Electronics** - University of Leeds (Year)
   - Thesis: "[Your Thesis Title]"
   - Key courses: [List relevant courses]
 
-## 💼 Work Experience
-
-<details>
-<summary>Click to expand</summary>
-
-### [Job Title] at [Company Name]
-**[Start Date] - [End Date]**
-- Responsibility 1
-- Responsibility 2
-- Responsibility 3
-
-### [Job Title] at [Company Name]
-**[Start Date] - [End Date]**
-- Responsibility 1
-- Responsibility 2
-- Responsibility 3
-
-</details>
 
 ## 🌟 Achievements & Certifications
 
