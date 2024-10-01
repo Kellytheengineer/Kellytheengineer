@@ -89,7 +89,7 @@ My favorite languages are SQL, Python, and JavaScript 👆 'Click to expand' to 
 
 ## 🌟 Achievements & Certifications
 - Full Stack Devleoper Bootcamp - School Of Code (2024)
-- GCHQ - Introduction to Python & Apps - Code First Girls (2024)
+- Introduction to Python & Apps with GCHQ - Code First Girls (2024)
 - Introduction to Data & SQL with Deloitte - Code First Girls (2024)
 
 ## 🤝 Let's Connect!
