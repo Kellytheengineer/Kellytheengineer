@@ -1,29 +1,27 @@
-<div align="center">
-  <img src="/placeholder.svg?height=200&width=200" alt="Profile Image" style="border-radius: 50%; border: 3px solid #3498db;" />
-  
-  # Kelly Shungu
+
+  # Hello, My name is Kelly 👋
   
   [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/kelly-ann-shungu/)
   [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](Your_Portfolio_URL)
   [![Podcast](https://img.shields.io/badge/-Podcast-8A2BE2?style=for-the-badge&logo=Podcast&logoColor=white)](https://rss.com/podcasts/womeninstem/)
 
-  Junior Full Stack Developer | MSc Electronics Graduate  | Host & Founder Of "Women In STEM Podcast" 
+  Junior Full Stack Developer | Electronic Engineer & Business Management MSc(Eng | Host & Founder Of "Women In STEM Podcast" 
 </div>
 
 ## 👨‍💻 About Me
 
-Greetings! I'm a passionate Junior Full Stack Developer with a Master's degree in Electronics from the University of Leeds. My journey in tech is fueled by an insatiable curiosity and a drive to create innovative solutions that make a difference.
+Greetings! I'm a passionate Junior Full Stack Developer with a Master's degree in Electronics Engineering . My journey in tech is fueled by an insatiable curiosity and a drive to create innovative solutions that make a difference.
 
-- 🔭 I'm currently working on: [Current Project Name]
-- 🌱 I'm currently learning: Advanced React Patterns and AWS Cloud Architecture
+- 🔭 I'm currently working on: Charity clothing events website  
+- 🌱 I'm currently learning: AWS Cloud Architecture
 - 💬 Ask me about: Full Stack Development, Electronics, and the intersection of Hardware and Software
-- 📫 How to reach me: [Your Email]
-- ⚡ Fun fact: [Interesting Fact About You]
+- ⚡ Fun fact: I am also a podcaster and have interviewed many tech professionals 
 
 - ![image](https://github.com/user-attachments/assets/a50345a3-4775-48b9-94d7-1167cc4c8cd8)
 
 
 ## 🛠️ Technical Skills
+My favorite languages are SQL, Python, and JavaScript 👆 Click on 'Click to expand to see the full range of my technical knowledge 
 
 <details>
 <summary>Click to expand</summary>
