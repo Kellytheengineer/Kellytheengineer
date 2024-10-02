@@ -9,7 +9,7 @@
 ## 👨‍💻 About Me
 
 Greetings! My journey in tech is fueled by an insatiable curiosity and a drive to create innovative solutions that make a difference.
-- 🔭 I'm currently working on: Charity clothing events website  
+- 🔭 I'm currently working on: Charity Clothing Events Website  
 - 🌱 I'm currently learning: AWS Cloud Architecture
 - ⚡ Fun fact: I am also a podcaster and have interviewed many tech professionals 
 
