@@ -8,8 +8,7 @@
 
 ## 👨‍💻 About Me
 
-Greetings! I'm a passionate Junior Full Stack Developer with a Master's degree in Electronics Engineering . My journey in tech is fueled by an insatiable curiosity and a drive to create innovative solutions that make a difference.
-
+Greetings! My journey in tech is fueled by an insatiable curiosity and a drive to create innovative solutions that make a difference.
 - 🔭 I'm currently working on: Charity clothing events website  
 - 🌱 I'm currently learning: AWS Cloud Architecture
 - ⚡ Fun fact: I am also a podcaster and have interviewed many tech professionals 
