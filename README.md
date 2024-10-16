@@ -65,21 +65,35 @@ My favorite languages are SQL, Python, and JavaScript 👆 'Click to expand' to 
 <details>
 <summary>Click to expand</summary>
 
-### Football Meet Up Website
+### Football Meet Up Website (Group Project)
 - **Description**: A football meetup site for parents of children aged 7-12 to create and join events.
 - **Tech Stack**: Next.js, React, GitHub CI/CD & Actions, Render, Prettier, and ESLint
 - **GitHub**: (https://github.com/Kellytheengineer/Football-meetup-website)
 - **Live Demo**: (https://final-project-final-destination.onrender.com/)
 
-### AI Interview Prep Helper
+### Robust API with PostgreSQL Integration (Group Project)
+- **Description**: Developed a secure API using Node.js/Express and PostgreSQL, handling credential management with environment variables and ensuring consistent JSON responses via the JSend specification
+- **Tech Stack**: Node.js/Express, PostgreSQL, JSend Specification Git, Environment Variables (dotenv)
+- **GitHub**: (https://github.com/Kellytheengineer/PostgreSQL-database-API)
+
+  ### AI Interview Prep Helper (Group Project)
 - **Description**: AI-powered chatbot providing personalized job interview advice—simply copy and paste your skills and the job ad for tailored insights.
 - **Tech Stack**: OpenAI API, GPT-4o mini
 - **GitHub**: (https://github.com/Kellytheengineer/AI-Interview-Prep-Helper)
 
-### Learn TypeScript Website 
-- **Description**: A website designed to teach the basics of TypeScript through interactive learning experiences.
-- **Tech Stack**: TypeScript, React, HTML5, CSS3
-- **GitHub**: (https://github.com/Kellytheengineer/typescriptbegineerguide)
+   ### Recipe Search Project: API Integration (Solo Project)
+- **Description**: Developed a Python application integrating the Recipe API. Users input an ingredient, and the program retrieves and displays matching recipes, demonstrating skills in API integration and data handling.Alomg side the ability to read and write information into a file.
+- **Tech Stack**:  Python, PyCharm, JSON module, Edamam Recipe API (External integrations)
+- **GitHub**: (https://github.com/Kellytheengineer/Recipe-Search-Project-API-Integration-)
+
+ ### Online Clothing Store Database  (Solo Project)
+- **Description**: Created a comprehensive database for an online clothing store with five tables, utilising joins and views for specific results, and developed a function to apply discounts for orders over £150.
+- **Tech Stack**: MySQL, SQL, EDR
+- **GitHub**: (https://github.com/Kellytheengineer/Online-clothing-store-database)
+
+### Psychological Approach to Biometric Feature Selection (Solo Project)
+- **Description**: Developed a MATLAB-based facial recognition system using psychological principles to detect and match facial features, utilizing the Viola-Jones framework and a GUI for real-time results.
+- **Tech Stack**: MATLAB , C++ Algorithm, Viola-Jones Framework, GUI
 
 </details>
 
