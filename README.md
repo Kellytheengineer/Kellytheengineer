@@ -14,7 +14,7 @@ Greetings! My journey in tech is fueled by an insatiable curiosity and a drive t
 - ⚡ Fun fact: I am also a podcaster and have interviewed many tech professionals 
 
 ## 🛠️ Technical Skills
-My favorite languages are SQL, Python, and JavaScript 👆 'Click to expand' to see the full range of my technical knowledge 
+My favorite languages are SQL, Python, and JavaScript.'Click to expand' to see the full range of my technical knowledge 
 
 <details>
 <summary>Click to expand</summary>
