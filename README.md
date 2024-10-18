@@ -65,8 +65,6 @@ My favorite languages are SQL, Python, and JavaScript 👆 'Click to expand' to 
 <details>
 <summary>Click to expand</summary>
 
-# Project Portfolio
-
 ## Football Meet Up Website (Group Project)
 - **Description**: A football meetup site for parents of children aged 7-12 to create and join events.
 - **Tech Stack**: Next.js, React, GitHub CI/CD & Actions, Render, Prettier, and ESLint
